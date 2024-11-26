@@ -1,2 +1,2 @@
 # Crime-Report
-West Yorkshire Crime was downloaded online, The coulumn needed for the report was extracted and analysed with MS-Excel.
+This dataset contains crime reports for 2023 as reported by the West Yorkshire Police. It provides detailed information on crime types, locations, and the current status of investigations. The data is useful for researchers, policymakers, and analysts to understand crime patterns and law enforcement outcomes in West Yorkshire.The coulumn needed for the report was extracted and analysed with MS-Excel.
